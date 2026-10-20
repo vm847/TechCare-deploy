@@ -6,7 +6,7 @@ Descarga la última versión desde [Releases](../../releases/latest):
 
 | Plataforma | Archivo | Cómo instalar |
 |---|---|---|
-| Windows | `techcare-windows-X.Y.Z.exe` | Ejecutar el instalador (no requiere administrador). Si Windows muestra "SmartScreen", elegir "Más información" y "Ejecutar de todas formas" |
+| Windows | `techcare-windows-X.Y.Z.exe` | Ejecutar el instalador (pregunta si instalarlo para todos los usuarios o solo para el actual). Si Windows muestra "SmartScreen", elegir "Más información" y "Ejecutar de todas formas" |
 | Android | `techcare-android-X.Y.Z.apk` | Abrir el archivo y permitir la instalación de orígenes desconocidos |
 | Web | `techcare-web-X.Y.Z.zip` | Contenido estático listo para publicar en cualquier hosting |
 
